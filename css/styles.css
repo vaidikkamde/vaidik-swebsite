@@ -125,14 +125,12 @@ a:hover{
 }
 .skill-row
 {
-  width: 50%;
   margin: 2.8125rem auto 2.8125rem auto;
   text-align: left;
   line-height: 1.5;
 }
 .skill-row1
 {
-  width: 50%;
   margin: 2.8125rem auto 2.8125rem auto;
   text-align: left;
   line-height: 1.5;
@@ -189,7 +187,7 @@ a:hover{
 
 .intro{
   font-weight: bold;
-  font-size: 1.25rem;
+  font-size: 1.2rem;
   margin: 0.625rem auto 1.25rem auto;
 }
 .app-brewery{
@@ -215,11 +213,11 @@ a:hover{
   font-size: 0.625rem;
 }
 .contact-me{
-  width: 50%;
+  width: 60%;
   margin: 1.25rem auto 1.25rem auto;
 }
 .profile{
-  width: 80%;
+  width: 70%;
   margin: 1.125rem auto 1.25rem auto;
 
 }
